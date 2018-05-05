@@ -1,0 +1,48 @@
+[PHP中文资料归类索引](../README.md) > [PHP_详解](PHP_详解.md)
+====
+- [冒泡排序在JAVA、C以及PHP中的实现详解](http://jkwz.applinzi.com/ittc/7095931638167110672.html#%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F%E5%9C%A8JAVA%E3%80%81C%E4%BB%A5%E5%8F%8APHP%E4%B8%AD%E7%9A%84%E5%AE%9E%E7%8E%B0%E8%AF%A6%E8%A7%A3) 180426  
+- [Linux下面安装PHP详解](http://jkwz.applinzi.com/ittc/7086961852255044614.html#Linux%E4%B8%8B%E9%9D%A2%E5%AE%89%E8%A3%85PHP%E8%AF%A6%E8%A7%A3) 180401 *1* 
+- [用什么软件开发php？看这里详解！](http://jkwz.applinzi.com/ittc/7082206333757817862.html#%E7%94%A8%E4%BB%80%E4%B9%88%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91php%EF%BC%9F%E7%9C%8B%E8%BF%99%E9%87%8C%E8%AF%A6%E8%A7%A3%EF%BC%81) 180319 *2* 
+- [php三种权限的详解](http://jkwz.applinzi.com/ittc/7081071263416321040.html#php%E4%B8%89%E7%A7%8D%E6%9D%83%E9%99%90%E7%9A%84%E8%AF%A6%E8%A7%A3) 180316 *1* 
+- [php中关于self和static代表本类的区别详解](http://jkwz.applinzi.com/ittc/7079171536487711760.html#php%E4%B8%AD%E5%85%B3%E4%BA%8Eself%E5%92%8Cstatic%E4%BB%A3%E8%A1%A8%E6%9C%AC%E7%B1%BB%E7%9A%84%E5%8C%BA%E5%88%AB%E8%AF%A6%E8%A7%A3) 180311  
+- [PHP获取内存使用情况详解](http://jkwz.applinzi.com/ittc/7074683540371670026.html#PHP%E8%8E%B7%E5%8F%96%E5%86%85%E5%AD%98%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%AF%A6%E8%A7%A3) 180227  
+- [PHP应用模式之FastCGI的运行工作原理详解](http://jkwz.applinzi.com/ittc/7073193144567202827.html#PHP%E5%BA%94%E7%94%A8%E6%A8%A1%E5%BC%8F%E4%B9%8BFastCGI%E7%9A%84%E8%BF%90%E8%A1%8C%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3) 180223  
+- [php反射使用技巧详解](http://jkwz.applinzi.com/ittc/7066894975977931783.html#php%E5%8F%8D%E5%B0%84%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7%E8%AF%A6%E8%A7%A3) 180206 *2* 
+- [小编详解php 中self,this的区别和实地操作](http://jkwz.applinzi.com/ittc/7064763867182138379.html#%E5%B0%8F%E7%BC%96%E8%AF%A6%E8%A7%A3php+%E4%B8%ADself%2Cthis%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E5%AE%9E%E5%9C%B0%E6%93%8D%E4%BD%9C) 180131  
+- [扣丁学堂PHP培训之实现无限分类方法详解](http://jkwz.applinzi.com/ittc/7051705820583035921.html#%E6%89%A3%E4%B8%81%E5%AD%A6%E5%A0%82PHP%E5%9F%B9%E8%AE%AD%E4%B9%8B%E5%AE%9E%E7%8E%B0%E6%97%A0%E9%99%90%E5%88%86%E7%B1%BB%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3) 171227  
+- [Miss详解 Swoole：一个面向生产环境的 PHP 异步网络通信引擎](http://jkwz.applinzi.com/ittc/7050004577355564049.html#Miss%E8%AF%A6%E8%A7%A3+Swoole%EF%BC%9A%E4%B8%80%E4%B8%AA%E9%9D%A2%E5%90%91%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%9A%84+PHP+%E5%BC%82%E6%AD%A5%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%BC%95%E6%93%8E) 171223 *2* 
+- [PHP开发：架构师详解Centos7环境下安装PHP的Memcache扩展](http://jkwz.applinzi.com/ittc/7022828577844888593.html#PHP%E5%BC%80%E5%8F%91%EF%BC%9A%E6%9E%B6%E6%9E%84%E5%B8%88%E8%AF%A6%E8%A7%A3Centos7%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85PHP%E7%9A%84Memcache%E6%89%A9%E5%B1%95) 171010  
+- [PHP开发：架构师详解PHP抓取程序逻辑代码，创造编程逻辑思维](http://jkwz.applinzi.com/ittc/7022485258715530257.html#PHP%E5%BC%80%E5%8F%91%EF%BC%9A%E6%9E%B6%E6%9E%84%E5%B8%88%E8%AF%A6%E8%A7%A3PHP%E6%8A%93%E5%8F%96%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%88%9B%E9%80%A0%E7%BC%96%E7%A8%8B%E9%80%BB%E8%BE%91%E6%80%9D%E7%BB%B4) 171009  
+- [遵循规范写出高质量的PHP代码：PHP推荐标准PSR详解](http://jkwz.applinzi.com/ittc/7018749177268536336.html#%E9%81%B5%E5%BE%AA%E8%A7%84%E8%8C%83%E5%86%99%E5%87%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84PHP%E4%BB%A3%E7%A0%81%EF%BC%9APHP%E6%8E%A8%E8%8D%90%E6%A0%87%E5%87%86PSR%E8%AF%A6%E8%A7%A3) 170929  
+- [「详解」从0开始构建一个属于你自己的PHP框架（上）](http://jkwz.applinzi.com/ittc/7006136656334423057.html#%E3%80%8C%E8%AF%A6%E8%A7%A3%E3%80%8D%E4%BB%8E0%E5%BC%80%E5%A7%8B%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84PHP%E6%A1%86%E6%9E%B6%EF%BC%88%E4%B8%8A%EF%BC%89) 170826  
+- [PHP编译安装步骤详解](http://jkwz.applinzi.com/ittc/7004977852444050449.html#PHP%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4%E8%AF%A6%E8%A7%A3) 170823  
+- [PHP支付接口教程，详解微信支付（三）](http://jkwz.applinzi.com/ittc/6985478879941493765.html#PHP%E6%94%AF%E4%BB%98%E6%8E%A5%E5%8F%A3%E6%95%99%E7%A8%8B%EF%BC%8C%E8%AF%A6%E8%A7%A3%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%EF%BC%88%E4%B8%89%EF%BC%89) 170701  
+- [PHP支付接口教程，详解微信支付（二）](http://jkwz.applinzi.com/ittc/6984628160040535044.html#PHP%E6%94%AF%E4%BB%98%E6%8E%A5%E5%8F%A3%E6%95%99%E7%A8%8B%EF%BC%8C%E8%AF%A6%E8%A7%A3%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%EF%BC%88%E4%BA%8C%EF%BC%89) 170629  
+- [PHP支付接口教程，详解微信支付（一）](http://jkwz.applinzi.com/ittc/6983911665002087428.html#PHP%E6%94%AF%E4%BB%98%E6%8E%A5%E5%8F%A3%E6%95%99%E7%A8%8B%EF%BC%8C%E8%AF%A6%E8%A7%A3%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%EF%BC%88%E4%B8%80%EF%BC%89) 170628 *5* 
+- [Thinkphp 后台数据库的还原备份详解](http://jkwz.applinzi.com/ittc/6979847709639836677.html#Thinkphp+%E5%90%8E%E5%8F%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E8%BF%98%E5%8E%9F%E5%A4%87%E4%BB%BD%E8%AF%A6%E8%A7%A3) 170616 *1* 
+- [php操作redis详解](http://jkwz.applinzi.com/ittc/6978752272312828933.html#php%E6%93%8D%E4%BD%9Credis%E8%AF%A6%E8%A7%A3) 170613  
+- [PHP及Javascript常见排序算法详解](http://jkwz.applinzi.com/ittc/6969822315721262085.html#PHP%E5%8F%8AJavascript%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3) 170520  
+- [PHP命名空间(Namespace)的使用详解](http://jkwz.applinzi.com/ittc/6961579942579012613.html#PHP%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4%28Namespace%29%E7%9A%84%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3) 170515  
+- [学习PHP网站开发（连载）——PHPCMS的下载与安装详解](http://jkwz.applinzi.com/ittc/6962728919819092997.html#%E5%AD%A6%E4%B9%A0PHP%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91%EF%BC%88%E8%BF%9E%E8%BD%BD%EF%BC%89%E2%80%94%E2%80%94PHPCMS%E7%9A%84%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E8%AF%A6%E8%A7%A3) 170501  
+- [PHP命令行(CLI)执行程序必备参数详解](http://jkwz.applinzi.com/ittc/6961663286318728197.html#PHP%E5%91%BD%E4%BB%A4%E8%A1%8C%28CLI%29%E6%89%A7%E8%A1%8C%E7%A8%8B%E5%BA%8F%E5%BF%85%E5%A4%87%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3) 170429  
+- [基于PHP的SQL注入详解](http://jkwz.applinzi.com/ittc/6960124145462412293.html#%E5%9F%BA%E4%BA%8EPHP%E7%9A%84SQL%E6%B3%A8%E5%85%A5%E8%AF%A6%E8%A7%A3) 170424  
+- [深入理解PHP异常和错误处理(3)异常内部类详解](http://jkwz.applinzi.com/ittc/6946544946285904900.html#%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3PHP%E5%BC%82%E5%B8%B8%E5%92%8C%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86%283%29%E5%BC%82%E5%B8%B8%E5%86%85%E9%83%A8%E7%B1%BB%E8%AF%A6%E8%A7%A3) 170319 *2* 
+- [PHP protected使用方法详解，大神略过哈！](http://jkwz.applinzi.com/ittc/6942717113704907781.html#PHP+protected%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3%EF%BC%8C%E5%A4%A7%E7%A5%9E%E7%95%A5%E8%BF%87%E5%93%88%EF%BC%81) 170308 *1* 
+- [PHP基础-08-字符串变量（函数）详解](http://jkwz.applinzi.com/ittc/6941887518856446980.html#PHP%E5%9F%BA%E7%A1%80-08-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8F%98%E9%87%8F%EF%BC%88%E5%87%BD%E6%95%B0%EF%BC%89%E8%AF%A6%E8%A7%A3) 170306  
+- [php踩过的那些坑(5) isset()详解](http://jkwz.applinzi.com/ittc/6937999715781313540.html#php%E8%B8%A9%E8%BF%87%E7%9A%84%E9%82%A3%E4%BA%9B%E5%9D%91%285%29+isset%28%29%E8%AF%A6%E8%A7%A3) 170224 *9* 
+- [ThinkPHP详解构造数据层](http://jkwz.applinzi.com/ittc/6934145223566558213.html#ThinkPHP%E8%AF%A6%E8%A7%A3%E6%9E%84%E9%80%A0%E6%95%B0%E6%8D%AE%E5%B1%82) 170213 *1* 
+- [PHP操作Redis详解案例](http://jkwz.applinzi.com/ittc/6925923109625660420.html#PHP%E6%93%8D%E4%BD%9CRedis%E8%AF%A6%E8%A7%A3%E6%A1%88%E4%BE%8B) 170122 *1* 
+- [PHP中GD库的安装与画图流程详解](http://jkwz.applinzi.com/ittc/6906216814882587652.html#PHP%E4%B8%ADGD%E5%BA%93%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E7%94%BB%E5%9B%BE%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3) 161130 *1* 
+- [php基础之MySQL Create Database 详解](http://jkwz.applinzi.com/ittc/6865441595075331077.html#php%E5%9F%BA%E7%A1%80%E4%B9%8BMySQL+Create+Database+%E8%AF%A6%E8%A7%A3) 160812 *1* 
+- [PHP程序注入漏洞详解](http://jkwz.applinzi.com/ittc/6861823237264245764.html#PHP%E7%A8%8B%E5%BA%8F%E6%B3%A8%E5%85%A5%E6%BC%8F%E6%B4%9E%E8%AF%A6%E8%A7%A3) 160802 *2* 
+- [那些技术—PHP框架MVC、OOP概念详解](http://jkwz.applinzi.com/ittc/6860341869644612613.html#%E9%82%A3%E4%BA%9B%E6%8A%80%E6%9C%AF%E2%80%94PHP%E6%A1%86%E6%9E%B6MVC%E3%80%81OOP%E6%A6%82%E5%BF%B5%E8%AF%A6%E8%A7%A3) 160729 *1* 
+- [PHP 函数详解](http://jkwz.applinzi.com/ittc/6854655178837591045.html#PHP+%E5%87%BD%E6%95%B0%E8%AF%A6%E8%A7%A3) 160714  
+- [PHP 算数运算符详解](http://jkwz.applinzi.com/ittc/6853897130569368580.html#PHP+%E7%AE%97%E6%95%B0%E8%BF%90%E7%AE%97%E7%AC%A6%E8%AF%A6%E8%A7%A3) 160712 *2* 
+- [PHP 常量详解教程](http://jkwz.applinzi.com/ittc/6853519281219961861.html#PHP+%E5%B8%B8%E9%87%8F%E8%AF%A6%E8%A7%A3%E6%95%99%E7%A8%8B) 160711 *4* 
+- [PHP 字符串函数详解](http://jkwz.applinzi.com/ittc/6852404316832531461.html#PHP+%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0%E8%AF%A6%E8%A7%A3) 160708 *3* 
+- [PHP 数据类型详解](http://jkwz.applinzi.com/ittc/6852045691672855557.html#PHP+%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%AF%A6%E8%A7%A3) 160707 *1* 
+- [PHP 变量详解](http://jkwz.applinzi.com/ittc/6851397715925402628.html#PHP+%E5%8F%98%E9%87%8F%E8%AF%A6%E8%A7%A3) 160705  
+- [PHP 语法详解](http://jkwz.applinzi.com/ittc/6851025435231781892.html#PHP+%E8%AF%AD%E6%B3%95%E8%AF%A6%E8%A7%A3) 160704 *6* 
+- [php多维数组详解](http://jkwz.applinzi.com/ittc/6843514026419815428.html#php%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84%E8%AF%A6%E8%A7%A3) 160614 *1* 
+- [从零学习php之php数组详解-课程7](http://jkwz.applinzi.com/ittc/6841282648957518852.html#%E4%BB%8E%E9%9B%B6%E5%AD%A6%E4%B9%A0php%E4%B9%8Bphp%E6%95%B0%E7%BB%84%E8%AF%A6%E8%A7%A3-%E8%AF%BE%E7%A8%8B7) 160608 *2* 
+- [从零学习php之php变量详解——课程2](http://jkwz.applinzi.com/ittc/6837192151905338372.html#%E4%BB%8E%E9%9B%B6%E5%AD%A6%E4%B9%A0php%E4%B9%8Bphp%E5%8F%98%E9%87%8F%E8%AF%A6%E8%A7%A3%E2%80%94%E2%80%94%E8%AF%BE%E7%A8%8B2) 160528 *5* 

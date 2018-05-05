@@ -1,0 +1,23 @@
+[PHP中文资料归类索引](../README.md) > [PHP_执行](PHP_执行.md)
+====
+- [使用PHP的SSH2_EXEC执行远程主机命令获取执行结果](http://jkwz.applinzi.com/ittc/7093361739305583627.html#%E4%BD%BF%E7%94%A8PHP%E7%9A%84SSH2_EXEC%E6%89%A7%E8%A1%8C%E8%BF%9C%E7%A8%8B%E4%B8%BB%E6%9C%BA%E5%91%BD%E4%BB%A4%E8%8E%B7%E5%8F%96%E6%89%A7%E8%A1%8C%E7%BB%93%E6%9E%9C) 180419  
+- [检查PHP脚本的执行效率的基本方法](http://jkwz.applinzi.com/ittc/7083431220203750417.html#%E6%A3%80%E6%9F%A5PHP%E8%84%9A%E6%9C%AC%E7%9A%84%E6%89%A7%E8%A1%8C%E6%95%88%E7%8E%87%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%96%B9%E6%B3%95) 180323  
+- [使用PHP进行批量图片处理时程序执行超时的调整](http://jkwz.applinzi.com/ittc/7067478093893993489.html#%E4%BD%BF%E7%94%A8PHP%E8%BF%9B%E8%A1%8C%E6%89%B9%E9%87%8F%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86%E6%97%B6%E7%A8%8B%E5%BA%8F%E6%89%A7%E8%A1%8C%E8%B6%85%E6%97%B6%E7%9A%84%E8%B0%83%E6%95%B4) 180207  
+- [在PHP中获取脚本执行时间](http://jkwz.applinzi.com/ittc/7052432544987874321.html#%E5%9C%A8PHP%E4%B8%AD%E8%8E%B7%E5%8F%96%E8%84%9A%E6%9C%AC%E6%89%A7%E8%A1%8C%E6%97%B6%E9%97%B4) 171230  
+- [模拟ssh登陆执行远程服务器脚本（python、php版）](http://jkwz.applinzi.com/ittc/7049465857602749456.html#%E6%A8%A1%E6%8B%9Fssh%E7%99%BB%E9%99%86%E6%89%A7%E8%A1%8C%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%84%9A%E6%9C%AC%EF%BC%88python%E3%80%81php%E7%89%88%EF%BC%89) 171221 *3* 
+- [php 执行 bat shell 备份mysql](http://jkwz.applinzi.com/ittc/7029191269190992913.html#php%C2%A0%E6%89%A7%E8%A1%8C%C2%A0bat%C2%A0shell%C2%A0%E5%A4%87%E4%BB%BDmysql) 171027  
+- [干货：ThinkPHP5 console命令行执行](http://jkwz.applinzi.com/ittc/7024962892368184337.html#%E5%B9%B2%E8%B4%A7%EF%BC%9AThinkPHP5+console%E5%91%BD%E4%BB%A4%E8%A1%8C%E6%89%A7%E8%A1%8C) 171016  
+- [PHP代码执行步骤](http://jkwz.applinzi.com/ittc/7014788042467050513.html#PHP%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%AD%A5%E9%AA%A4) 170918  
+- [一张图让你看明白Thinkphp5执行过程](http://jkwz.applinzi.com/ittc/7004977107732792336.html#%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AE%A9%E4%BD%A0%E7%9C%8B%E6%98%8E%E7%99%BDThinkphp5%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B) 170824 *1* 
+- [linux下php以root权限执行shell脚本或系统命令](http://jkwz.applinzi.com/ittc/7004245998090847249.html#linux%E4%B8%8Bphp%E4%BB%A5root%E6%9D%83%E9%99%90%E6%89%A7%E8%A1%8Cshell%E8%84%9A%E6%9C%AC%E6%88%96%E7%B3%BB%E7%BB%9F%E5%91%BD%E4%BB%A4) 170821  
+- [漏洞报告｜ThinkPHP配置不当可导致远程代码执行](http://jkwz.applinzi.com/ittc/7002715003575338000.html#%E6%BC%8F%E6%B4%9E%E6%8A%A5%E5%91%8A%EF%BD%9CThinkPHP%E9%85%8D%E7%BD%AE%E4%B8%8D%E5%BD%93%E5%8F%AF%E5%AF%BC%E8%87%B4%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C) 170817 *1* 
+- [分享：Windows计划任务定时执行PHP代码及扩展](http://jkwz.applinzi.com/ittc/6997238521314935825.html#%E5%88%86%E4%BA%AB%EF%BC%9AWindows%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E5%AE%9A%E6%97%B6%E6%89%A7%E8%A1%8CPHP%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%89%A9%E5%B1%95) 170802  
+- [PHP命令行(CLI)执行程序必备参数详解](http://jkwz.applinzi.com/ittc/6961663286318728197.html#PHP%E5%91%BD%E4%BB%A4%E8%A1%8C%28CLI%29%E6%89%A7%E8%A1%8C%E7%A8%8B%E5%BA%8F%E5%BF%85%E5%A4%87%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3) 170429  
+- [让php以root权限执行shell脚本](http://jkwz.applinzi.com/ittc/6961627405704758277.html#%E8%AE%A9php%E4%BB%A5root%E6%9D%83%E9%99%90%E6%89%A7%E8%A1%8Cshell%E8%84%9A%E6%9C%AC) 170428  
+- [ThinkPHP执行流程](http://jkwz.applinzi.com/ittc/6925141620508066820.html#ThinkPHP%E6%89%A7%E8%A1%8C%E6%B5%81%E7%A8%8B) 170120 *1* 
+- [php的脚本执行速度较其他的语言还是望尘莫及啊](http://jkwz.applinzi.com/ittc/6924213587597067269.html#php%E7%9A%84%E8%84%9A%E6%9C%AC%E6%89%A7%E8%A1%8C%E9%80%9F%E5%BA%A6%E8%BE%83%E5%85%B6%E4%BB%96%E7%9A%84%E8%AF%AD%E8%A8%80%E8%BF%98%E6%98%AF%E6%9C%9B%E5%B0%98%E8%8E%AB%E5%8F%8A%E5%95%8A) 170117 *16* 
+- [PHP定时执行计划任务](http://jkwz.applinzi.com/ittc/6911406772811465733.html#PHP%E5%AE%9A%E6%97%B6%E6%89%A7%E8%A1%8C%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1) 161214 *15* 
+- [php基础之mysql_query 函数执行SQL语句](http://jkwz.applinzi.com/ittc/6866961573289133060.html#php%E5%9F%BA%E7%A1%80%E4%B9%8Bmysql_query+%E5%87%BD%E6%95%B0%E6%89%A7%E8%A1%8CSQL%E8%AF%AD%E5%8F%A5) 160816 *1* 
+- [选择哪种框架对php代码执行速度会有影响？](http://jkwz.applinzi.com/ittc/6864755643252212740.html#%E9%80%89%E6%8B%A9%E5%93%AA%E7%A7%8D%E6%A1%86%E6%9E%B6%E5%AF%B9php%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E9%80%9F%E5%BA%A6%E4%BC%9A%E6%9C%89%E5%BD%B1%E5%93%8D%EF%BC%9F) 160810  
+- [深圳嘉华：PHP如何通过Web 执行C/C++应用程序方法](http://jkwz.applinzi.com/ittc/6844613862057575429.html#%E6%B7%B1%E5%9C%B3%E5%98%89%E5%8D%8E%EF%BC%9APHP%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87Web+%E6%89%A7%E8%A1%8CC%2FC%2B%2B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%96%B9%E6%B3%95) 160617 *6* 
+- [在 Linux 命令行中使用和执行 PHP 代码（一）](http://jkwz.applinzi.com/ittc/547650615388021719.html#%E5%9C%A8+Linux+%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%92%8C%E6%89%A7%E8%A1%8C+PHP+%E4%BB%A3%E7%A0%81%EF%BC%88%E4%B8%80%EF%BC%89) 150729 *2* 

@@ -1,0 +1,50 @@
+[PHP中文资料归类索引](../README.md) > [PHP_扩展](PHP_扩展.md)
+====
+- [Windows环境下安装Redis以及如何添加PHP的Redis扩展](http://jkwz.applinzi.com/ittc/7097054065882301451.html#Windows%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Redis%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0PHP%E7%9A%84Redis%E6%89%A9%E5%B1%95) 180428  
+- [Linux环境下面安装PHP扩展，爱好编程的进！](http://jkwz.applinzi.com/ittc/7085083964845081606.html#Linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%9D%A2%E5%AE%89%E8%A3%85PHP%E6%89%A9%E5%B1%95%EF%BC%8C%E7%88%B1%E5%A5%BD%E7%BC%96%E7%A8%8B%E7%9A%84%E8%BF%9B%EF%BC%81) 180327 *2* 
+- [秒懂Docker 中安装扩展 PHP](http://jkwz.applinzi.com/ittc/7084189060614849552.html#%E7%A7%92%E6%87%82Docker+%E4%B8%AD%E5%AE%89%E8%A3%85%E6%89%A9%E5%B1%95+PHP) 180324  
+- [小编教你windows系统下为PHP安装redis扩展](http://jkwz.applinzi.com/ittc/7066892544397280273.html#%E5%B0%8F%E7%BC%96%E6%95%99%E4%BD%A0windows%E7%B3%BB%E7%BB%9F%E4%B8%8B%E4%B8%BAPHP%E5%AE%89%E8%A3%85redis%E6%89%A9%E5%B1%95) 180206 *1* 
+- [技术文章——《PHP扩展及核心》](http://jkwz.applinzi.com/ittc/7054346059973657607.html#%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0%E2%80%94%E2%80%94%E3%80%8APHP%E6%89%A9%E5%B1%95%E5%8F%8A%E6%A0%B8%E5%BF%83%E3%80%8B) 180103  
+- [识消息队列之安装RabbitMQ的PHP扩展-AMQP](http://jkwz.applinzi.com/ittc/7047995402148643856.html#%E8%AF%86%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%E4%B9%8B%E5%AE%89%E8%A3%85RabbitMQ%E7%9A%84PHP%E6%89%A9%E5%B1%95-AMQP) 171217 *1* 
+- [Windows下xampp集成开发环境PHP扩展Redis图文教程](http://jkwz.applinzi.com/ittc/7037731223575725072.html#Windows%E4%B8%8Bxampp%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83PHP%E6%89%A9%E5%B1%95Redis%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B) 171119  
+- [360正式开源zendAPI 项目，让 PHP 的扩展开发成为一种享受](http://jkwz.applinzi.com/ittc/7030291234415969296.html#360%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90zendAPI+%E9%A1%B9%E7%9B%AE%EF%BC%8C%E8%AE%A9+PHP+%E7%9A%84%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E4%BA%AB%E5%8F%97) 171030 *3* 
+- [开源免费中文分词scws在linux下支持php扩展安装方法](http://jkwz.applinzi.com/ittc/7024235041452983313.html#%E5%BC%80%E6%BA%90%E5%85%8D%E8%B4%B9%E4%B8%AD%E6%96%87%E5%88%86%E8%AF%8Dscws%E5%9C%A8linux%E4%B8%8B%E6%94%AF%E6%8C%81php%E6%89%A9%E5%B1%95%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95) 171014  
+- [PHP开发：架构师详解Centos7环境下安装PHP的Memcache扩展](http://jkwz.applinzi.com/ittc/7022828577844888593.html#PHP%E5%BC%80%E5%8F%91%EF%BC%9A%E6%9E%B6%E6%9E%84%E5%B8%88%E8%AF%A6%E8%A7%A3Centos7%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85PHP%E7%9A%84Memcache%E6%89%A9%E5%B1%95) 171010  
+- [PHP扩展vld查看opcodes](http://jkwz.applinzi.com/ittc/7022572563207816209.html#PHP%E6%89%A9%E5%B1%95vld%E6%9F%A5%E7%9C%8Bopcodes) 171009  
+- [PHP 7扩展开发之定义原生 Class](http://jkwz.applinzi.com/ittc/7020882785257128976.html#PHP+7%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E4%B9%8B%E5%AE%9A%E4%B9%89%E5%8E%9F%E7%94%9F+Class) 171005  
+- [php怎么添加扩展模块？](http://jkwz.applinzi.com/ittc/7018494526631707664.html#php%E6%80%8E%E4%B9%88%E6%B7%BB%E5%8A%A0%E6%89%A9%E5%B1%95%E6%A8%A1%E5%9D%97%EF%BC%9F) 170929  
+- [php Swoole环境搭建及扩展安装](http://jkwz.applinzi.com/ittc/7018638607047459856.html#php+Swoole%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%8F%8A%E6%89%A9%E5%B1%95%E5%AE%89%E8%A3%85) 170929 *2* 
+- [PHP 7扩展开发之原生函数定义](http://jkwz.applinzi.com/ittc/7018625327964881936.html#PHP+7%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E4%B9%8B%E5%8E%9F%E7%94%9F%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89) 170929 *2* 
+- [C++ 开发 PHP 7 扩展之模块常量定义](http://jkwz.applinzi.com/ittc/7018253242071516177.html#C%2B%2B+%E5%BC%80%E5%8F%91+PHP+7+%E6%89%A9%E5%B1%95%E4%B9%8B%E6%A8%A1%E5%9D%97%E5%B8%B8%E9%87%8F%E5%AE%9A%E4%B9%89) 170928 *3* 
+- [C++ 开发 PHP 7 扩展之模块入口定义](http://jkwz.applinzi.com/ittc/7017512364986074129.html#C%2B%2B+%E5%BC%80%E5%8F%91+PHP+7+%E6%89%A9%E5%B1%95%E4%B9%8B%E6%A8%A1%E5%9D%97%E5%85%A5%E5%8F%A3%E5%AE%9A%E4%B9%89) 170927 *3* 
+- [干货｜php安装扩展mysqli的实现步骤及报错解决办法](http://jkwz.applinzi.com/ittc/7017207434190521361.html#%E5%B9%B2%E8%B4%A7%EF%BD%9Cphp%E5%AE%89%E8%A3%85%E6%89%A9%E5%B1%95mysqli%E7%9A%84%E5%AE%9E%E7%8E%B0%E6%AD%A5%E9%AA%A4%E5%8F%8A%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95) 170925  
+- [PHP扩展之curl的介绍、封装](http://jkwz.applinzi.com/ittc/7015889683182257168.html#PHP%E6%89%A9%E5%B1%95%E4%B9%8Bcurl%E7%9A%84%E4%BB%8B%E7%BB%8D%E3%80%81%E5%B0%81%E8%A3%85) 170922  
+- [mamp安装php扩展](http://jkwz.applinzi.com/ittc/7016019940128326672.html#mamp%E5%AE%89%E8%A3%85php%E6%89%A9%E5%B1%95) 170922  
+- [如何使用PHP数据对象(PDO)扩展连接操作数据库？](http://jkwz.applinzi.com/ittc/7015846919044334609.html#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8PHP%E6%95%B0%E6%8D%AE%E5%AF%B9%E8%B1%A1%28PDO%29%E6%89%A9%E5%B1%95%E8%BF%9E%E6%8E%A5%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93%EF%BC%9F) 170921  
+- [Linux环境下安装XAMPP的PHP的PDF扩展](http://jkwz.applinzi.com/ittc/7013081797209097233.html#Linux%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85XAMPP%E7%9A%84PHP%E7%9A%84PDF%E6%89%A9%E5%B1%95) 170914  
+- [laravel框架中PHP操作数据库的Mysql和PDO扩展应用](http://jkwz.applinzi.com/ittc/7011409079682204688.html#laravel%E6%A1%86%E6%9E%B6%E4%B8%ADPHP%E6%93%8D%E4%BD%9C%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84Mysql%E5%92%8CPDO%E6%89%A9%E5%B1%95%E5%BA%94%E7%94%A8) 170909  
+- [thinkphp5的nestedsets无限极分类扩展使用](http://jkwz.applinzi.com/ittc/7005301198331315217.html#thinkphp5%E7%9A%84nestedsets%E6%97%A0%E9%99%90%E6%9E%81%E5%88%86%E7%B1%BB%E6%89%A9%E5%B1%95%E4%BD%BF%E7%94%A8) 170824 *3* 
+- [分享：Windows计划任务定时执行PHP代码及扩展](http://jkwz.applinzi.com/ittc/6997238521314935825.html#%E5%88%86%E4%BA%AB%EF%BC%9AWindows%E8%AE%A1%E5%88%92%E4%BB%BB%E5%8A%A1%E5%AE%9A%E6%97%B6%E6%89%A7%E8%A1%8CPHP%E4%BB%A3%E7%A0%81%E5%8F%8A%E6%89%A9%E5%B1%95) 170802  
+- [一个简单但是很方便的PHP时间扩展库](http://jkwz.applinzi.com/ittc/6997160459369989136.html#%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E4%BD%86%E6%98%AF%E5%BE%88%E6%96%B9%E4%BE%BF%E7%9A%84PHP%E6%97%B6%E9%97%B4%E6%89%A9%E5%B1%95%E5%BA%93) 170802  
+- [php类库扩展神器之composer](http://jkwz.applinzi.com/ittc/6992677216239223824.html#php%E7%B1%BB%E5%BA%93%E6%89%A9%E5%B1%95%E7%A5%9E%E5%99%A8%E4%B9%8Bcomposer) 170721 *1* 
+- [对php进行简单扩展的实例](http://jkwz.applinzi.com/ittc/6989062955487200273.html#%E5%AF%B9php%E8%BF%9B%E8%A1%8C%E7%AE%80%E5%8D%95%E6%89%A9%E5%B1%95%E7%9A%84%E5%AE%9E%E4%BE%8B) 170711  
+- [php最牛的扩展swoole教程之介绍](http://jkwz.applinzi.com/ittc/6989055889171285009.html#php%E6%9C%80%E7%89%9B%E7%9A%84%E6%89%A9%E5%B1%95swoole%E6%95%99%E7%A8%8B%E4%B9%8B%E4%BB%8B%E7%BB%8D) 170711 *2* 
+- [PHP扩展函数 图片处理函数GD2](http://jkwz.applinzi.com/ittc/6984187939343827972.html#PHP%E6%89%A9%E5%B1%95%E5%87%BD%E6%95%B0+%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86%E5%87%BD%E6%95%B0GD2) 170628  
+- [php加载GD扩展，开启验证码功能！](http://jkwz.applinzi.com/ittc/6976930872774099972.html#php%E5%8A%A0%E8%BD%BDGD%E6%89%A9%E5%B1%95%EF%BC%8C%E5%BC%80%E5%90%AF%E9%AA%8C%E8%AF%81%E7%A0%81%E5%8A%9F%E8%83%BD%EF%BC%81) 170608  
+- [使用Zephir语言给PHP编写一个C语言扩展](http://jkwz.applinzi.com/ittc/6964460616226964485.html#%E4%BD%BF%E7%94%A8Zephir%E8%AF%AD%E8%A8%80%E7%BB%99PHP%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAC%E8%AF%AD%E8%A8%80%E6%89%A9%E5%B1%95) 170507  
+- [linux下PHP 扩展安装](http://jkwz.applinzi.com/ittc/6961490365856089092.html#linux%E4%B8%8BPHP+%E6%89%A9%E5%B1%95%E5%AE%89%E8%A3%85) 170428  
+- [PHP工程师必须掌握的扩展：数据传输神器cURL](http://jkwz.applinzi.com/ittc/6956906889811067909.html#PHP%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E6%89%A9%E5%B1%95%EF%BC%9A%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E7%A5%9E%E5%99%A8cURL) 170415 *4* 
+- [不要再天天写表单了，淘宝大牛教你零基础写 PHP 扩展](http://jkwz.applinzi.com/ittc/6947542207467881476.html#%E4%B8%8D%E8%A6%81%E5%86%8D%E5%A4%A9%E5%A4%A9%E5%86%99%E8%A1%A8%E5%8D%95%E4%BA%86%EF%BC%8C%E6%B7%98%E5%AE%9D%E5%A4%A7%E7%89%9B%E6%95%99%E4%BD%A0%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%86%99+PHP+%E6%89%A9%E5%B1%95) 170321 *4* 
+- [php设置redis扩展，你值得拥有](http://jkwz.applinzi.com/ittc/6941852365744505861.html#php%E8%AE%BE%E7%BD%AEredis%E6%89%A9%E5%B1%95%EF%BC%8C%E4%BD%A0%E5%80%BC%E5%BE%97%E6%8B%A5%E6%9C%89) 170307 *2* 
+- [5个非常有用的php扩展](http://jkwz.applinzi.com/ittc/6938710580142801925.html#5%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%9C%89%E7%94%A8%E7%9A%84php%E6%89%A9%E5%B1%95) 170225 *9* 
+- [php应用：php中的扩展解析](http://jkwz.applinzi.com/ittc/6901152070635095044.html#php%E5%BA%94%E7%94%A8%EF%BC%9Aphp%E4%B8%AD%E7%9A%84%E6%89%A9%E5%B1%95%E8%A7%A3%E6%9E%90) 161116  
+- [PHP扩展开发工具zephir注意点](http://jkwz.applinzi.com/ittc/6882189787917714436.html#PHP%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7zephir%E6%B3%A8%E6%84%8F%E7%82%B9) 160926  
+- [PHP的mysqli扩展介绍和使用](http://jkwz.applinzi.com/ittc/6878912918124495876.html#PHP%E7%9A%84mysqli%E6%89%A9%E5%B1%95%E4%BB%8B%E7%BB%8D%E5%92%8C%E4%BD%BF%E7%94%A8) 160917  
+- [PHP的mysql扩展简介与使用](http://jkwz.applinzi.com/ittc/6878541735025705988.html#PHP%E7%9A%84mysql%E6%89%A9%E5%B1%95%E7%AE%80%E4%BB%8B%E4%B8%8E%E4%BD%BF%E7%94%A8) 160916  
+- [zephir 安装 -- 类php语言风格的php扩展开发](http://jkwz.applinzi.com/ittc/6877603250303403013.html#zephir+%E5%AE%89%E8%A3%85+--+%E7%B1%BBphp%E8%AF%AD%E8%A8%80%E9%A3%8E%E6%A0%BC%E7%9A%84php%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91) 160914 *1* 
+- [用php5.6.25来编写第一个php扩展-笔记](http://jkwz.applinzi.com/ittc/6877303767820665860.html#%E7%94%A8php5.6.25%E6%9D%A5%E7%BC%96%E5%86%99%E7%AC%AC%E4%B8%80%E4%B8%AAphp%E6%89%A9%E5%B1%95-%E7%AC%94%E8%AE%B0) 160913 *5* 
+- [php扩展开发详细笔记](http://jkwz.applinzi.com/ittc/6877231123423298564.html#php%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E8%AF%A6%E7%BB%86%E7%AC%94%E8%AE%B0) 160913 *1* 
+- [php扩展开发之路(一)](http://jkwz.applinzi.com/ittc/6869556735181849604.html#php%E6%89%A9%E5%B1%95%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF%28%E4%B8%80%29) 160823 *2* 
+- [原 荐 PHP利用ICU扩展intl快速实现汉字转拼音以及按拼音首字母分组排序](http://jkwz.applinzi.com/ittc/6857373828589814788.html#%E5%8E%9F+%E8%8D%90+PHP%E5%88%A9%E7%94%A8ICU%E6%89%A9%E5%B1%95intl%E5%BF%AB%E9%80%9F%E5%AE%9E%E7%8E%B0%E6%B1%89%E5%AD%97%E8%BD%AC%E6%8B%BC%E9%9F%B3%E4%BB%A5%E5%8F%8A%E6%8C%89%E6%8B%BC%E9%9F%B3%E9%A6%96%E5%AD%97%E6%AF%8D%E5%88%86%E7%BB%84%E6%8E%92%E5%BA%8F) 160721  
+- [php分享之trie_filter扩展模块安装](http://jkwz.applinzi.com/ittc/6843879181171295236.html#php%E5%88%86%E4%BA%AB%E4%B9%8Btrie_filter%E6%89%A9%E5%B1%95%E6%A8%A1%E5%9D%97%E5%AE%89%E8%A3%85) 160615  
+- [linux 下安装redis以及php Redis扩展](http://jkwz.applinzi.com/ittc/6841279217526113285.html#linux+%E4%B8%8B%E5%AE%89%E8%A3%85redis%E4%BB%A5%E5%8F%8Aphp+Redis%E6%89%A9%E5%B1%95) 160608  

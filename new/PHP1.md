@@ -1,0 +1,105 @@
+[PHP中文资料归类索引](../README.md) > [PHP](PHP.md)
+====
+- [php学习路线,php开发学什么](http://jkwz.applinzi.com/ittc/6818665730966815749.html#php%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%2Cphp%E5%BC%80%E5%8F%91%E5%AD%A6%E4%BB%80%E4%B9%88) 160408 *2* 
+- [PHP教程“从入门到精通”你学会了吗?](http://jkwz.applinzi.com/ittc/6818271545356977156.html#PHP%E6%95%99%E7%A8%8B%E2%80%9C%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E2%80%9D%E4%BD%A0%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%90%97%3F) 160407 *4* 
+- [最值得使用的PHP框架有哪些？](http://jkwz.applinzi.com/ittc/6816499519810176005.html#%E6%9C%80%E5%80%BC%E5%BE%97%E4%BD%BF%E7%94%A8%E7%9A%84PHP%E6%A1%86%E6%9E%B6%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F) 160402 *14* 
+- [PHP与ASP.NET：选择哪个更好？](http://jkwz.applinzi.com/ittc/6816263092115604484.html#PHP%E4%B8%8EASP.NET%EF%BC%9A%E9%80%89%E6%8B%A9%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%A5%BD%EF%BC%9F) 160402 *90* 
+- [PHP新手如何提高代码质量](http://jkwz.applinzi.com/ittc/6815874426016891908.html#PHP%E6%96%B0%E6%89%8B%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F) 160331 *3* 
+- [如何选择PHP培训机构](http://jkwz.applinzi.com/ittc/6815747778403632133.html#%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9PHP%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84) 160331  
+- [开发人员分析和解析PHP代码的7款最佳PHP工具](http://jkwz.applinzi.com/ittc/6815235075285189636.html#%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%88%86%E6%9E%90%E5%92%8C%E8%A7%A3%E6%9E%90PHP%E4%BB%A3%E7%A0%81%E7%9A%847%E6%AC%BE%E6%9C%80%E4%BD%B3PHP%E5%B7%A5%E5%85%B7) 160330 *1* 
+- [干货！如何更改mac os的默认php版本](http://jkwz.applinzi.com/ittc/6815111026831787013.html#%E5%B9%B2%E8%B4%A7%EF%BC%81%E5%A6%82%E4%BD%95%E6%9B%B4%E6%94%B9mac+os%E7%9A%84%E9%BB%98%E8%AE%A4php%E7%89%88%E6%9C%AC) 160329 *1* 
+- [极致体验一触即发 凯时娱乐PHP版本网页上线](http://jkwz.applinzi.com/ittc/6813195914185278468.html#%E6%9E%81%E8%87%B4%E4%BD%93%E9%AA%8C%E4%B8%80%E8%A7%A6%E5%8D%B3%E5%8F%91+%E5%87%AF%E6%97%B6%E5%A8%B1%E4%B9%90PHP%E7%89%88%E6%9C%AC%E7%BD%91%E9%A1%B5%E4%B8%8A%E7%BA%BF) 160324  
+- [如何使用工具进行线上 PHP 性能追踪及分析？](http://jkwz.applinzi.com/ittc/6813160581246747653.html#%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%E8%BF%9B%E8%A1%8C%E7%BA%BF%E4%B8%8A+PHP+%E6%80%A7%E8%83%BD%E8%BF%BD%E8%B8%AA%E5%8F%8A%E5%88%86%E6%9E%90%EF%BC%9F) 160324  
+- [开源内容管理系统Joomla 3.5官方发布 基于PHP 7](http://jkwz.applinzi.com/ittc/6812350665716139013.html#%E5%BC%80%E6%BA%90%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FJoomla+3.5%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83+%E5%9F%BA%E4%BA%8EPHP+7) 160322 *6* 
+- [当PHP爱上Java-JPHP](http://jkwz.applinzi.com/ittc/6811046057068725252.html#%E5%BD%93PHP%E7%88%B1%E4%B8%8AJava-JPHP) 160318 *2* 
+- [Peachpie —— .NET 的 PHP 编译器](http://jkwz.applinzi.com/ittc/6810157877301871620.html#Peachpie+%E2%80%94%E2%80%94+.NET+%E7%9A%84+PHP+%E7%BC%96%E8%AF%91%E5%99%A8) 160316  
+- [兄弟连PHP培训：如何从崛起走向IT巅峰](http://jkwz.applinzi.com/ittc/6809483684163879940.html#%E5%85%84%E5%BC%9F%E8%BF%9EPHP%E5%9F%B9%E8%AE%AD%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BB%8E%E5%B4%9B%E8%B5%B7%E8%B5%B0%E5%90%91IT%E5%B7%85%E5%B3%B0) 160314 *8* 
+- [优化函数式编程：向 PHP 移植 Clojure 函数](http://jkwz.applinzi.com/ittc/6804679711460426757.html#%E4%BC%98%E5%8C%96%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%90%91+PHP+%E7%A7%BB%E6%A4%8D+Clojure+%E5%87%BD%E6%95%B0) 160301  
+- [PHP的相似性和差异Ruby ON Rails,Python](http://jkwz.applinzi.com/ittc/6797516332333532164.html#PHP%E7%9A%84%E7%9B%B8%E4%BC%BC%E6%80%A7%E5%92%8C%E5%B7%AE%E5%BC%82Ruby+ON+Rails%2CPython) 160217 *3* 
+- [PHP 7.0.3 正式版发布](http://jkwz.applinzi.com/ittc/6794848168835548165.html#PHP+7.0.3+%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83) 160204 *13* 
+- [因材施教才是兄弟连PHP培训的王道](http://jkwz.applinzi.com/ittc/6793511205046060036.html#%E5%9B%A0%E6%9D%90%E6%96%BD%E6%95%99%E6%89%8D%E6%98%AF%E5%85%84%E5%BC%9F%E8%BF%9EPHP%E5%9F%B9%E8%AE%AD%E7%9A%84%E7%8E%8B%E9%81%93) 160131 *8* 
+- [Windows server 2003服务器搭建PHP环境](http://jkwz.applinzi.com/ittc/6792678296735187972.html#Windows+server+2003%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BAPHP%E7%8E%AF%E5%A2%83) 160129 *3* 
+- [JAVA与PHP语言时间戳的转换问题](http://jkwz.applinzi.com/ittc/6789563703997498372.html#JAVA%E4%B8%8EPHP%E8%AF%AD%E8%A8%80%E6%97%B6%E9%97%B4%E6%88%B3%E7%9A%84%E8%BD%AC%E6%8D%A2%E9%97%AE%E9%A2%98) 160121 *1* 
+- [Debian 升级到 PHP 7，并支持并行安装](http://jkwz.applinzi.com/ittc/6789420753502077956.html#Debian+%E5%8D%87%E7%BA%A7%E5%88%B0+PHP+7%EF%BC%8C%E5%B9%B6%E6%94%AF%E6%8C%81%E5%B9%B6%E8%A1%8C%E5%AE%89%E8%A3%85) 160120 *2* 
+- [PHP 如何安全的使用 MySQL ？](http://jkwz.applinzi.com/ittc/6788993785275089924.html#PHP+%E5%A6%82%E4%BD%95%E5%AE%89%E5%85%A8%E7%9A%84%E4%BD%BF%E7%94%A8+MySQL+%EF%BC%9F) 160119 *5* 
+- [关于网站设计中PHP与ASP程序的定义](http://jkwz.applinzi.com/ittc/6786404095128765444.html#%E5%85%B3%E4%BA%8E%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1%E4%B8%ADPHP%E4%B8%8EASP%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%AE%9A%E4%B9%89) 160112 *5* 
+- [PHP 之 Laravel 框架安装及相关开源软件](http://jkwz.applinzi.com/ittc/6786368872466875396.html#PHP+%E4%B9%8B+Laravel+%E6%A1%86%E6%9E%B6%E5%AE%89%E8%A3%85%E5%8F%8A%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6) 160112  
+- [PHP 7.0.2正式版发布：WordPress速度提升3倍！](http://jkwz.applinzi.com/ittc/6784668962189214725.html#PHP+7.0.2%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83%EF%BC%9AWordPress%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%873%E5%80%8D%EF%BC%81) 160107 *14* 
+- [如何在 CentOS 7 / Ubuntu 15.04 上安装 PHP 框架 Laravel](http://jkwz.applinzi.com/ittc/6784116210270733316.html#%E5%A6%82%E4%BD%95%E5%9C%A8+CentOS+7+%2F+Ubuntu+15.04+%E4%B8%8A%E5%AE%89%E8%A3%85+PHP+%E6%A1%86%E6%9E%B6+Laravel) 160106  
+- [PHP自动测试框架Top 10](http://jkwz.applinzi.com/ittc/6783691953824859140.html#PHP%E8%87%AA%E5%8A%A8%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6Top+10) 160105 *1* 
+- [PHP代码审计工具曝本地文件包含漏洞](http://jkwz.applinzi.com/ittc/6781174080548111365.html#PHP%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1%E5%B7%A5%E5%85%B7%E6%9B%9D%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E) 151229 *1* 
+- [在memcached管理php的session](http://jkwz.applinzi.com/ittc/6780974012398306308.html#%E5%9C%A8memcached%E7%AE%A1%E7%90%86php%E7%9A%84session) 151228  
+- [win2008/2012如何安装IIS7和php环境](http://jkwz.applinzi.com/ittc/6775763999509709829.html#win2008%2F2012%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85IIS7%E5%92%8Cphp%E7%8E%AF%E5%A2%83) 151214 *1* 
+- [PHP 7.0.0 正式版发布！](http://jkwz.applinzi.com/ittc/6771875854460388357.html#PHP+7.0.0+%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83%EF%BC%81) 151204 *8* 
+- [WordPress认定JavaScript，PHP这算是失宠](http://jkwz.applinzi.com/ittc/6770225514270950405.html#WordPress%E8%AE%A4%E5%AE%9AJavaScript%EF%BC%8CPHP%E8%BF%99%E7%AE%97%E6%98%AF%E5%A4%B1%E5%AE%A0) 151129  
+- [编程语言论坛（上）：C++、PHP、Go热点和新玩法](http://jkwz.applinzi.com/ittc/6767129466673562629.html#%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E8%AE%BA%E5%9D%9B%EF%BC%88%E4%B8%8A%EF%BC%89%EF%BC%9AC%2B%2B%E3%80%81PHP%E3%80%81Go%E7%83%AD%E7%82%B9%E5%92%8C%E6%96%B0%E7%8E%A9%E6%B3%95) 151121 *11* 
+- [10款最佳PHP自动化测试框架](http://jkwz.applinzi.com/ittc/6759201934969570308.html#10%E6%AC%BE%E6%9C%80%E4%BD%B3PHP%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6) 151031 *1* 
+- [Swoole开源项目创始人韩天峰：PHP是最好的编程语言](http://jkwz.applinzi.com/ittc/6756303347441255428.html#Swoole%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%9F%A9%E5%A4%A9%E5%B3%B0%EF%BC%9APHP%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80) 151023 *36* 
+- [做PHP开发的男朋友要去创业型公司工作，我要阻止吗？](http://jkwz.applinzi.com/ittc/6754916442372097028.html#%E5%81%9APHP%E5%BC%80%E5%8F%91%E7%9A%84%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%A6%81%E5%8E%BB%E5%88%9B%E4%B8%9A%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%B7%A5%E4%BD%9C%EF%BC%8C%E6%88%91%E8%A6%81%E9%98%BB%E6%AD%A2%E5%90%97%EF%BC%9F) 151019  
+- [PHP从业2年却仍选择传智PHP深造：为什么？](http://jkwz.applinzi.com/ittc/6752657710480704516.html#PHP%E4%BB%8E%E4%B8%9A2%E5%B9%B4%E5%8D%B4%E4%BB%8D%E9%80%89%E6%8B%A9%E4%BC%A0%E6%99%BAPHP%E6%B7%B1%E9%80%A0%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F) 151013 *3* 
+- [PHP 之 FastCGI 与 mod](http://jkwz.applinzi.com/ittc/6752206004475282437.html#PHP+%E4%B9%8B+FastCGI+%E4%B8%8E+mod) 151012 *3* 
+- [PHP高手推荐的几本书](http://jkwz.applinzi.com/ittc/6751596647400391685.html#PHP%E9%AB%98%E6%89%8B%E6%8E%A8%E8%8D%90%E7%9A%84%E5%87%A0%E6%9C%AC%E4%B9%A6) 151011  
+- [只需要四步，就能完成PHP搭建](http://jkwz.applinzi.com/ittc/6751582740296041477.html#%E5%8F%AA%E9%9C%80%E8%A6%81%E5%9B%9B%E6%AD%A5%EF%BC%8C%E5%B0%B1%E8%83%BD%E5%AE%8C%E6%88%90PHP%E6%90%AD%E5%BB%BA) 151010  
+- [Rogue Wave 宣布收购 “PHP推动者” Zend Technologies](http://jkwz.applinzi.com/ittc/6750847510613001221.html#Rogue+Wave+%E5%AE%A3%E5%B8%83%E6%94%B6%E8%B4%AD+%E2%80%9CPHP%E6%8E%A8%E5%8A%A8%E8%80%85%E2%80%9D+Zend+Technologies) 151008 *5* 
+- [PHP中安全相关的函数](http://jkwz.applinzi.com/ittc/6750825151013258245.html#PHP%E4%B8%AD%E5%AE%89%E5%85%A8%E7%9B%B8%E5%85%B3%E7%9A%84%E5%87%BD%E6%95%B0) 151008 *1* 
+- [原创：带你全面了解和学习PHP](http://jkwz.applinzi.com/ittc/6743252603981136900.html#%E5%8E%9F%E5%88%9B%EF%BC%9A%E5%B8%A6%E4%BD%A0%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3%E5%92%8C%E5%AD%A6%E4%B9%A0PHP) 150918  
+- [php中文件上传的安全问题](http://jkwz.applinzi.com/ittc/6742549191416792068.html#php%E4%B8%AD%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98) 150916  
+- [PHP函数的实现原理及性能分析](http://jkwz.applinzi.com/ittc/6740086177997046788.html#PHP%E5%87%BD%E6%95%B0%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E5%8F%8A%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90) 150909 *15* 
+- [深入了解php底层机制](http://jkwz.applinzi.com/ittc/6740085722730202117.html#%E6%B7%B1%E5%85%A5%E4%BA%86%E8%A7%A3php%E5%BA%95%E5%B1%82%E6%9C%BA%E5%88%B6) 150909 *6* 
+- [分享：六个绝佳的PHP模板引擎](http://jkwz.applinzi.com/ittc/6735823380004226053.html#%E5%88%86%E4%BA%AB%EF%BC%9A%E5%85%AD%E4%B8%AA%E7%BB%9D%E4%BD%B3%E7%9A%84PHP%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E) 150829 *4* 
+- [PHP 性能分析与实验——性能的宏观分析](http://jkwz.applinzi.com/ittc/547650615735522917.html#PHP+%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E4%B8%8E%E5%AE%9E%E9%AA%8C%E2%80%94%E2%80%94%E6%80%A7%E8%83%BD%E7%9A%84%E5%AE%8F%E8%A7%82%E5%88%86%E6%9E%90) 150819 *5* 
+- [Win10本地搭建Apache+PHP运行环境](http://jkwz.applinzi.com/ittc/547650615691990148.html#Win10%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BAApache%2BPHP%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83) 150812 *2* 
+- [用PHP爬取知乎100万用户数据](http://jkwz.applinzi.com/ittc/547650611436256993.html#%E7%94%A8PHP%E7%88%AC%E5%8F%96%E7%9F%A5%E4%B9%8E100%E4%B8%87%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE) 150805 *1* 
+- [在 Linux 命令行中使用和执行 PHP 代码（一）](http://jkwz.applinzi.com/ittc/547650615388021719.html#%E5%9C%A8+Linux+%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%B8%AD%E4%BD%BF%E7%94%A8%E5%92%8C%E6%89%A7%E8%A1%8C+PHP+%E4%BB%A3%E7%A0%81%EF%BC%88%E4%B8%80%EF%BC%89) 150729 *2* 
+- [8个增强PHP程序安全的函数](http://jkwz.applinzi.com/ittc/547650615321139268.html#8%E4%B8%AA%E5%A2%9E%E5%BC%BAPHP%E7%A8%8B%E5%BA%8F%E5%AE%89%E5%85%A8%E7%9A%84%E5%87%BD%E6%95%B0) 150727  
+- [ASP网站PHP网站和JSP网站的异议](http://jkwz.applinzi.com/ittc/547650615218941447.html#ASP%E7%BD%91%E7%AB%99PHP%E7%BD%91%E7%AB%99%E5%92%8CJSP%E7%BD%91%E7%AB%99%E7%9A%84%E5%BC%82%E8%AE%AE) 150723 *14* 
+- [php优化之memcached](http://jkwz.applinzi.com/ittc/547650615083736645.html#php%E4%BC%98%E5%8C%96%E4%B9%8Bmemcached) 150717  
+- [2015年有用的十大免费PHP框架](http://jkwz.applinzi.com/ittc/547650615066442733.html#2015%E5%B9%B4%E6%9C%89%E7%94%A8%E7%9A%84%E5%8D%81%E5%A4%A7%E5%85%8D%E8%B4%B9PHP%E6%A1%86%E6%9E%B6) 150715 *31* 
+- [为了PHP开发者，OneAPM都做了哪些事？](http://jkwz.applinzi.com/ittc/547650615057647095.html#%E4%B8%BA%E4%BA%86PHP%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8COneAPM%E9%83%BD%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BA%8B%EF%BC%9F) 150713  
+- [互联网医疗英文热词解读:PHP](http://jkwz.applinzi.com/ittc/547650611415042257.html#%E4%BA%92%E8%81%94%E7%BD%91%E5%8C%BB%E7%96%97%E8%8B%B1%E6%96%87%E7%83%AD%E8%AF%8D%E8%A7%A3%E8%AF%BB%3APHP) 150523  
+- [分析和解析PHP代码的7大工具](http://jkwz.applinzi.com/ittc/547650611411166870.html#%E5%88%86%E6%9E%90%E5%92%8C%E8%A7%A3%E6%9E%90PHP%E4%BB%A3%E7%A0%81%E7%9A%847%E5%A4%A7%E5%B7%A5%E5%85%B7) 150512 *3* 
+- [非常实用的15款开源PHP类库](http://jkwz.applinzi.com/ittc/547650611412409074.html#%E9%9D%9E%E5%B8%B8%E5%AE%9E%E7%94%A8%E7%9A%8415%E6%AC%BE%E5%BC%80%E6%BA%90PHP%E7%B1%BB%E5%BA%93) 150511 *3* 
+- [PHP程序的苦衷？](http://jkwz.applinzi.com/ittc/547650611409361131.html#PHP%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%8B%A6%E8%A1%B7%EF%BC%9F) 150501 *8* 
+- [Web开发人员最爱11个PHP框架](http://jkwz.applinzi.com/ittc/547650611412013978.html#Web%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E6%9C%80%E7%88%B111%E4%B8%AAPHP%E6%A1%86%E6%9E%B6) 150430 *2* 
+- [Facebook为什么使用PHP编程语言？](http://jkwz.applinzi.com/ittc/547650611399457924.html#Facebook%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%BF%E7%94%A8PHP%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%EF%BC%9F) 150409 *12* 
+- [技巧：PHP版本怎样隐藏在Linux服务器](http://jkwz.applinzi.com/ittc/547650611397852654.html#%E6%8A%80%E5%B7%A7%EF%BC%9APHP%E7%89%88%E6%9C%AC%E6%80%8E%E6%A0%B7%E9%9A%90%E8%97%8F%E5%9C%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8) 150402 *1* 
+- [《PHP编程》关于 PHP 7 你必须知道的五件事](http://jkwz.applinzi.com/ittc/547650611401478210.html#%E3%80%8APHP%E7%BC%96%E7%A8%8B%E3%80%8B%E5%85%B3%E4%BA%8E+PHP+7+%E4%BD%A0%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%94%E4%BB%B6%E4%BA%8B) 150330 *6* 
+- [《PHP》PHP7性能提升之后的思考](http://jkwz.applinzi.com/ittc/547650611397133496.html#%E3%80%8APHP%E3%80%8BPHP7%E6%80%A7%E8%83%BD%E6%8F%90%E5%8D%87%E4%B9%8B%E5%90%8E%E7%9A%84%E6%80%9D%E8%80%83) 150320 *3* 
+- [《PHP》什么是PHP框架，为什么要用PHP框架](http://jkwz.applinzi.com/ittc/547650611398257368.html#%E3%80%8APHP%E3%80%8B%E4%BB%80%E4%B9%88%E6%98%AFPHP%E6%A1%86%E6%9E%B6%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8PHP%E6%A1%86%E6%9E%B6) 150319 *2* 
+- [JAVA和PHP比较](http://jkwz.applinzi.com/ittc/547650611396142866.html#JAVA%E5%92%8CPHP%E6%AF%94%E8%BE%83) 150314 *33* 
+- [php网站建设制作流程](http://jkwz.applinzi.com/ittc/547650611397848099.html#php%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B) 150311 *1* 
+- [用PHP自动生成百度开放适配Sitemap提升手机站排名](http://jkwz.applinzi.com/ittc/547650611387990234.html#%E7%94%A8PHP%E8%87%AA%E5%8A%A8%E7%94%9F%E6%88%90%E7%99%BE%E5%BA%A6%E5%BC%80%E6%94%BE%E9%80%82%E9%85%8DSitemap%E6%8F%90%E5%8D%87%E6%89%8B%E6%9C%BA%E7%AB%99%E6%8E%92%E5%90%8D) 150121  
+- [PHP命名空间概念解析](http://jkwz.applinzi.com/ittc/547650611387397868.html#PHP%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4%E6%A6%82%E5%BF%B5%E8%A7%A3%E6%9E%90) 150114 *1* 
+- [PHP封装与继承实例](http://jkwz.applinzi.com/ittc/547650611385373719.html#PHP%E5%B0%81%E8%A3%85%E4%B8%8E%E7%BB%A7%E6%89%BF%E5%AE%9E%E4%BE%8B) 150107 *3* 
+- [PHP和MySQL命令行初级教程](http://jkwz.applinzi.com/ittc/547650611384311745.html#PHP%E5%92%8CMySQL%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%88%9D%E7%BA%A7%E6%95%99%E7%A8%8B) 141217 *1* 
+- [PHP warning](http://jkwz.applinzi.com/ittc/547650611381639723.html#PHP+warning) 141212  
+- [10个最佳的PHP图像操作库](http://jkwz.applinzi.com/ittc/547650611379682055.html#10%E4%B8%AA%E6%9C%80%E4%BD%B3%E7%9A%84PHP%E5%9B%BE%E5%83%8F%E6%93%8D%E4%BD%9C%E5%BA%93) 141202 *2* 
+- [ownCloud作者谈PHP未来的无限遐想](http://jkwz.applinzi.com/ittc/547650611378860056.html#ownCloud%E4%BD%9C%E8%80%85%E8%B0%88PHP%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%97%A0%E9%99%90%E9%81%90%E6%83%B3) 141120 *2* 
+- [有福了！用PHP开发原生桌面应用程序](http://jkwz.applinzi.com/ittc/547650611380494739.html#%E6%9C%89%E7%A6%8F%E4%BA%86%EF%BC%81%E7%94%A8PHP%E5%BC%80%E5%8F%91%E5%8E%9F%E7%94%9F%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F) 141120 *18* 
+- [盘点如何利用PHP生成PDF文件](http://jkwz.applinzi.com/ittc/547650611378925384.html#%E7%9B%98%E7%82%B9%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8PHP%E7%94%9F%E6%88%90PDF%E6%96%87%E4%BB%B6) 141119  
+- [8个增强 PHP 程序安全的函数](http://jkwz.applinzi.com/ittc/547650611377024255.html#8%E4%B8%AA%E5%A2%9E%E5%BC%BA+PHP+%E7%A8%8B%E5%BA%8F%E5%AE%89%E5%85%A8%E7%9A%84%E5%87%BD%E6%95%B0) 141104  
+- [PHP八大安全函数解析](http://jkwz.applinzi.com/ittc/547650611380187951.html#PHP%E5%85%AB%E5%A4%A7%E5%AE%89%E5%85%A8%E5%87%BD%E6%95%B0%E8%A7%A3%E6%9E%90) 141103 *1* 
+- [Typecho：国人开源PHP博客系统，三年磨一剑！](http://jkwz.applinzi.com/ittc/547650611374293213.html#Typecho%EF%BC%9A%E5%9B%BD%E4%BA%BA%E5%BC%80%E6%BA%90PHP%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%B8%89%E5%B9%B4%E7%A3%A8%E4%B8%80%E5%89%91%EF%BC%81) 141015  
+- [25款Web开发精品PHP库](http://jkwz.applinzi.com/ittc/547650611374010909.html#25%E6%AC%BEWeb%E5%BC%80%E5%8F%91%E7%B2%BE%E5%93%81PHP%E5%BA%93) 140923  
+- [浅析PHP abstract和interface之间的区别](http://jkwz.applinzi.com/ittc/547650611374975718.html#%E6%B5%85%E6%9E%90PHP+abstract%E5%92%8Cinterface%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB) 140916  
+- [国产PHP框架ThinkPHP与SpeedPHP的浅析对比](http://jkwz.applinzi.com/ittc/547650611374330642.html#%E5%9B%BD%E4%BA%A7PHP%E6%A1%86%E6%9E%B6ThinkPHP%E4%B8%8ESpeedPHP%E7%9A%84%E6%B5%85%E6%9E%90%E5%AF%B9%E6%AF%94) 140912 *3* 
+- [6个常见的PHP安全性攻击](http://jkwz.applinzi.com/ittc/547650611374455015.html#6%E4%B8%AA%E5%B8%B8%E8%A7%81%E7%9A%84PHP%E5%AE%89%E5%85%A8%E6%80%A7%E6%94%BB%E5%87%BB) 140911  
+- [简述PHP核心功能](http://jkwz.applinzi.com/ittc/547650611374471282.html#%E7%AE%80%E8%BF%B0PHP%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD) 140911  
+- [简析PHP编程中最易犯的十一个错误](http://jkwz.applinzi.com/ittc/547650611374134886.html#%E7%AE%80%E6%9E%90PHP%E7%BC%96%E7%A8%8B%E4%B8%AD%E6%9C%80%E6%98%93%E7%8A%AF%E7%9A%84%E5%8D%81%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF) 140905 *28* 
+- [十款热门PHP框架的浅析对比](http://jkwz.applinzi.com/ittc/547650611371639138.html#%E5%8D%81%E6%AC%BE%E7%83%AD%E9%97%A8PHP%E6%A1%86%E6%9E%B6%E7%9A%84%E6%B5%85%E6%9E%90%E5%AF%B9%E6%AF%94) 140905 *1* 
+- [PHP框架的基本原理以及选择标准](http://jkwz.applinzi.com/ittc/547650611374371867.html#PHP%E6%A1%86%E6%9E%B6%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%E4%BB%A5%E5%8F%8A%E9%80%89%E6%8B%A9%E6%A0%87%E5%87%86) 140829  
+- [PHP框架的发展背景以及主流PHP框架横向对比](http://jkwz.applinzi.com/ittc/547650611373326619.html#PHP%E6%A1%86%E6%9E%B6%E7%9A%84%E5%8F%91%E5%B1%95%E8%83%8C%E6%99%AF%E4%BB%A5%E5%8F%8A%E4%B8%BB%E6%B5%81PHP%E6%A1%86%E6%9E%B6%E6%A8%AA%E5%90%91%E5%AF%B9%E6%AF%94) 140823  
+- [最好的PHP IDE和PHP文本编辑器合集](http://jkwz.applinzi.com/ittc/547650611373577756.html#%E6%9C%80%E5%A5%BD%E7%9A%84PHP+IDE%E5%92%8CPHP%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8%E5%90%88%E9%9B%86) 140822 *1* 
+- [Linux平台上的PHP IDE盘点](http://jkwz.applinzi.com/ittc/547650611371272896.html#Linux%E5%B9%B3%E5%8F%B0%E4%B8%8A%E7%9A%84PHP+IDE%E7%9B%98%E7%82%B9) 140816 *3* 
+- [20款最为知名的开源PHP CMS](http://jkwz.applinzi.com/ittc/547650611370806028.html#20%E6%AC%BE%E6%9C%80%E4%B8%BA%E7%9F%A5%E5%90%8D%E7%9A%84%E5%BC%80%E6%BA%90PHP+CMS) 140814 *4* 
+- [PHP Web开发框架Laravel安装指南](http://jkwz.applinzi.com/ittc/547650611370806026.html#PHP+Web%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6Laravel%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97) 140814 *1* 
+- [盘点9款开源PHP单元测试工具](http://jkwz.applinzi.com/ittc/547650611371290513.html#%E7%9B%98%E7%82%B99%E6%AC%BE%E5%BC%80%E6%BA%90PHP%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7) 140814  
+- [Facebook的Parse发布开源PHP脚本，让用户可以直接搭建网站后台](http://jkwz.applinzi.com/ittc/547650611372262310.html#Facebook%E7%9A%84Parse%E5%8F%91%E5%B8%83%E5%BC%80%E6%BA%90PHP%E8%84%9A%E6%9C%AC%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99%E5%90%8E%E5%8F%B0) 140806 *36* 
+- [2014年免费开源PHP框架排行榜](http://jkwz.applinzi.com/ittc/547650611372047012.html#2014%E5%B9%B4%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90PHP%E6%A1%86%E6%9E%B6%E6%8E%92%E8%A1%8C%E6%A6%9C) 140806 *4* 
+- [PHP语言终于有了正式的规范了](http://jkwz.applinzi.com/ittc/547650611370947290.html#PHP%E8%AF%AD%E8%A8%80%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%86%E6%AD%A3%E5%BC%8F%E7%9A%84%E8%A7%84%E8%8C%83%E4%BA%86) 140803 *18* 
+- [19款免费PHP IDE](http://jkwz.applinzi.com/ittc/547650611369699582.html#19%E6%AC%BE%E5%85%8D%E8%B4%B9PHP+IDE) 140729 *3* 
+- [PHP与RESTful](http://jkwz.applinzi.com/ittc/547650611369006505.html#PHP%E4%B8%8ERESTful) 140705 *2* 
+- [4项技巧使你不再为PHP中文编码苦恼](http://jkwz.applinzi.com/ittc/547650611370333809.html#4%E9%A1%B9%E6%8A%80%E5%B7%A7%E4%BD%BF%E4%BD%A0%E4%B8%8D%E5%86%8D%E4%B8%BAPHP%E4%B8%AD%E6%96%87%E7%BC%96%E7%A0%81%E8%8B%A6%E6%81%BC) 140704 *2* 
+
+
+ [上页](PHP2.md)           (1/25)

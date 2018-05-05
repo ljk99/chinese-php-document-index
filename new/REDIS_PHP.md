@@ -1,0 +1,21 @@
+[PHP中文资料归类索引](../README.md) > [REDIS_PHP](REDIS_PHP.md)
+====
+- [PHP 在windows环境下使用redis](http://jkwz.applinzi.com/ittc/7097669796869178375.html#PHP+%E5%9C%A8windows%E7%8E%AF%E5%A2%83%E4%B8%8B%E4%BD%BF%E7%94%A8redis) 180430  
+- [Windows环境下安装Redis以及如何添加PHP的Redis扩展](http://jkwz.applinzi.com/ittc/7097054065882301451.html#Windows%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%89%E8%A3%85Redis%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0PHP%E7%9A%84Redis%E6%89%A9%E5%B1%95) 180428  
+- [小编教你windows系统下为PHP安装redis扩展](http://jkwz.applinzi.com/ittc/7066892544397280273.html#%E5%B0%8F%E7%BC%96%E6%95%99%E4%BD%A0windows%E7%B3%BB%E7%BB%9F%E4%B8%8B%E4%B8%BAPHP%E5%AE%89%E8%A3%85redis%E6%89%A9%E5%B1%95) 180206 *1* 
+- [PHP简单使用redis](http://jkwz.applinzi.com/ittc/7054285539446883344.html#PHP%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8redis) 180103 *2* 
+- [php分布式redis实现session共享](http://jkwz.applinzi.com/ittc/7048775511206003729.html#php%E5%88%86%E5%B8%83%E5%BC%8Fredis%E5%AE%9E%E7%8E%B0session%E5%85%B1%E4%BA%AB) 171219 *1* 
+- [Windows下xampp集成开发环境PHP扩展Redis图文教程](http://jkwz.applinzi.com/ittc/7037731223575725072.html#Windows%E4%B8%8Bxampp%E9%9B%86%E6%88%90%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83PHP%E6%89%A9%E5%B1%95Redis%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B) 171119  
+- [PHP 中redis常用方法](http://jkwz.applinzi.com/ittc/7016419712739836944.html#PHP+%E4%B8%ADredis%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95) 170923  
+- [PHP中数据缓存Redis的简单应用](http://jkwz.applinzi.com/ittc/7011323377581818896.html#PHP%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BC%93%E5%AD%98Redis%E7%9A%84%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8) 170910 *2* 
+- [php操作redis详解](http://jkwz.applinzi.com/ittc/6978752272312828933.html#php%E6%93%8D%E4%BD%9Credis%E8%AF%A6%E8%A7%A3) 170613  
+- [使用redis缓存实现多服务器PHP sessions共享](http://jkwz.applinzi.com/ittc/6976063497124185092.html#%E4%BD%BF%E7%94%A8redis%E7%BC%93%E5%AD%98%E5%AE%9E%E7%8E%B0%E5%A4%9A%E6%9C%8D%E5%8A%A1%E5%99%A8PHP+sessions%E5%85%B1%E4%BA%AB) 170606 *2* 
+- [「PHP小白贴」在windows下安装redis](http://jkwz.applinzi.com/ittc/6961714927675900933.html#%E3%80%8CPHP%E5%B0%8F%E7%99%BD%E8%B4%B4%E3%80%8D%E5%9C%A8windows%E4%B8%8B%E5%AE%89%E8%A3%85redis) 170429 *2* 
+- [win下给php安装redis](http://jkwz.applinzi.com/ittc/6957286948338140164.html#win%E4%B8%8B%E7%BB%99php%E5%AE%89%E8%A3%85redis) 170417 *2* 
+- [php设置redis扩展，你值得拥有](http://jkwz.applinzi.com/ittc/6941852365744505861.html#php%E8%AE%BE%E7%BD%AEredis%E6%89%A9%E5%B1%95%EF%BC%8C%E4%BD%A0%E5%80%BC%E5%BE%97%E6%8B%A5%E6%9C%89) 170307 *2* 
+- [Mac安装Nginx、Mysql、PHP、Redis](http://jkwz.applinzi.com/ittc/6936670828765905925.html#Mac%E5%AE%89%E8%A3%85Nginx%E3%80%81Mysql%E3%80%81PHP%E3%80%81Redis) 170220 *1* 
+- [PHP操作Redis详解案例](http://jkwz.applinzi.com/ittc/6925923109625660420.html#PHP%E6%93%8D%E4%BD%9CRedis%E8%AF%A6%E8%A7%A3%E6%A1%88%E4%BE%8B) 170122 *1* 
+- [php session to redis](http://jkwz.applinzi.com/ittc/6916643226512786437.html#php+session+to+redis) 161228  
+- [PHP缓存服务器之Redis](http://jkwz.applinzi.com/ittc/6902728568450057221.html#PHP%E7%BC%93%E5%AD%98%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B9%8BRedis) 161120 *1* 
+- [PHP搭建缓存服务Memcache/Redis](http://jkwz.applinzi.com/ittc/6848711475816039428.html#PHP%E6%90%AD%E5%BB%BA%E7%BC%93%E5%AD%98%E6%9C%8D%E5%8A%A1Memcache%2FRedis) 160628  
+- [linux 下安装redis以及php Redis扩展](http://jkwz.applinzi.com/ittc/6841279217526113285.html#linux+%E4%B8%8B%E5%AE%89%E8%A3%85redis%E4%BB%A5%E5%8F%8Aphp+Redis%E6%89%A9%E5%B1%95) 160608  

@@ -1,0 +1,9 @@
+[PHP中文资料归类索引](../README.md) > [正则表达式_PHP](正则表达式_PHP.md)
+====
+- [PHP - 正则表达式](http://jkwz.applinzi.com/ittc/7079997080351540241.html#PHP+-+%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F) 180313  
+- [扣丁学堂盘点PHP开发常用的十个正则表达式验证及源码](http://jkwz.applinzi.com/ittc/7049845179299660817.html#%E6%89%A3%E4%B8%81%E5%AD%A6%E5%A0%82%E7%9B%98%E7%82%B9PHP%E5%BC%80%E5%8F%91%E5%B8%B8%E7%94%A8%E7%9A%84%E5%8D%81%E4%B8%AA%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%AA%8C%E8%AF%81%E5%8F%8A%E6%BA%90%E7%A0%81) 171222  
+- [PHP表单中常用正则表达式使用总结](http://jkwz.applinzi.com/ittc/7021426122141729809.html#PHP%E8%A1%A8%E5%8D%95%E4%B8%AD%E5%B8%B8%E7%94%A8%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93) 171007 *1* 
+- [PHP 正则表达式(PCRE)](http://jkwz.applinzi.com/ittc/7010505848785470480.html#PHP+%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%28PCRE%29) 170907  
+- [干货！PHP的正则表达式！需要的小牛请收藏！](http://jkwz.applinzi.com/ittc/6987475630357480453.html#%E5%B9%B2%E8%B4%A7%EF%BC%81PHP%E7%9A%84%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%EF%BC%81%E9%9C%80%E8%A6%81%E7%9A%84%E5%B0%8F%E7%89%9B%E8%AF%B7%E6%94%B6%E8%97%8F%EF%BC%81) 170707  
+- [php利用curl方法和正则表达式提取网页内容](http://jkwz.applinzi.com/ittc/6954966612393329668.html#php%E5%88%A9%E7%94%A8curl%E6%96%B9%E6%B3%95%E5%92%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%8F%90%E5%8F%96%E7%BD%91%E9%A1%B5%E5%86%85%E5%AE%B9) 170410 *5* 
+- [php中is_int就是一个坑，建议用正则表达式替代](http://jkwz.applinzi.com/ittc/6902678551295165444.html#php%E4%B8%ADis_int%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%9D%91%EF%BC%8C%E5%BB%BA%E8%AE%AE%E7%94%A8%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%9B%BF%E4%BB%A3) 161120 *28* 

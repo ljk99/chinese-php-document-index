@@ -1,0 +1,23 @@
+[PHP中文资料归类索引](../README.md) > [发布_PHP](发布_PHP.md)
+====
+- [PHP Web 开发框架 Laravel 5.6.16 发布](http://jkwz.applinzi.com/ittc/7090708336679060491.html#PHP+Web+%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6+Laravel+5.6.16+%E5%8F%91%E5%B8%83) 180411  
+- [Jsonnet-PHP v1.3.0 发布 —— 支持 PHP 7 使用 Jsonnet](http://jkwz.applinzi.com/ittc/7086302207299552262.html#Jsonnet-PHP+v1.3.0+%E5%8F%91%E5%B8%83+%E2%80%94%E2%80%94+%E6%94%AF%E6%8C%81+PHP+7+%E4%BD%BF%E7%94%A8+Jsonnet) 180331  
+- [快速、稳定、易维护的php框架——CmlPHPV2.8发布](http://jkwz.applinzi.com/ittc/7054810531188179974.html#%E5%BF%AB%E9%80%9F%E3%80%81%E7%A8%B3%E5%AE%9A%E3%80%81%E6%98%93%E7%BB%B4%E6%8A%A4%E7%9A%84php%E6%A1%86%E6%9E%B6%E2%80%94%E2%80%94CmlPHPV2.8%E5%8F%91%E5%B8%83) 180104 *2* 
+- [ThinkPHP V5.1.0 发布——12 载初心不变，新年献礼！](http://jkwz.applinzi.com/ittc/7054000026492077063.html#ThinkPHP+V5.1.0+%E5%8F%91%E5%B8%83%E2%80%94%E2%80%9412+%E8%BD%BD%E5%88%9D%E5%BF%83%E4%B8%8D%E5%8F%98%EF%BC%8C%E6%96%B0%E5%B9%B4%E7%8C%AE%E7%A4%BC%EF%BC%81) 180102 *3* 
+- [PHP 开发框架 TimoPHP 1.4.1 发布](http://jkwz.applinzi.com/ittc/7002482191215625232.html#PHP+%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6+TimoPHP+1.4.1+%E5%8F%91%E5%B8%83) 170816 *2* 
+- [PHPUnit 6.2.3 发布，PHP 单元测试框架](http://jkwz.applinzi.com/ittc/6986459602542396420.html#PHPUnit+6.2.3+%E5%8F%91%E5%B8%83%EF%BC%8CPHP+%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6) 170704  
+- [PHP 开发框架Laravel 5.4.28 发布](http://jkwz.applinzi.com/ittc/6986128480079971332.html#PHP+%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6Laravel+5.4.28+%E5%8F%91%E5%B8%83) 170703 *2* 
+- [干货：PHP 7.0.19 和 7.1.5 正式发布](http://jkwz.applinzi.com/ittc/6968954417041638404.html#%E5%B9%B2%E8%B4%A7%EF%BC%9APHP+7.0.19+%E5%92%8C+7.1.5+%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83) 170518 *6* 
+- [如何制作及发布网站（PHP本地版）？](http://jkwz.applinzi.com/ittc/6967087056265151493.html#%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E5%8F%8A%E5%8F%91%E5%B8%83%E7%BD%91%E7%AB%99%EF%BC%88PHP%E6%9C%AC%E5%9C%B0%E7%89%88%EF%BC%89%EF%BC%9F) 170513 *3* 
+- [智能PHP IDE—Zend Studio v13.6正式发布](http://jkwz.applinzi.com/ittc/6963764914240881668.html#%E6%99%BA%E8%83%BDPHP+IDE%E2%80%94Zend+Studio+v13.6%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83) 170504 *6* 
+- [从PHP 5到PHP 7性能全评测（含未发布的JIT版PHP 8对比）](http://jkwz.applinzi.com/ittc/6911053257228420101.html#%E4%BB%8EPHP+5%E5%88%B0PHP+7%E6%80%A7%E8%83%BD%E5%85%A8%E8%AF%84%E6%B5%8B%EF%BC%88%E5%90%AB%E6%9C%AA%E5%8F%91%E5%B8%83%E7%9A%84JIT%E7%89%88PHP+8%E5%AF%B9%E6%AF%94%EF%BC%89) 161213 *9* 
+- [寿光租房网房产信息发布网站源码 二手房交易网站PHP源码下载](http://jkwz.applinzi.com/ittc/6889231835116078084.html#%E5%AF%BF%E5%85%89%E7%A7%9F%E6%88%BF%E7%BD%91%E6%88%BF%E4%BA%A7%E4%BF%A1%E6%81%AF%E5%8F%91%E5%B8%83%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81+%E4%BA%8C%E6%89%8B%E6%88%BF%E4%BA%A4%E6%98%93%E7%BD%91%E7%AB%99PHP%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD) 161015 *4* 
+- [支持 PHP 7 放弃 IE, 轻量级开源 Wiki 程序 DokuWiki 发布新版本 Elenor of Tsort](http://jkwz.applinzi.com/ittc/6857472260662887429.html#%E6%94%AF%E6%8C%81+PHP+7+%E6%94%BE%E5%BC%83+IE%2C+%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%BC%80%E6%BA%90+Wiki+%E7%A8%8B%E5%BA%8F+DokuWiki+%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%9C%AC+Elenor+of+Tsort) 160722  
+- [用PHP制作新闻发布系统](http://jkwz.applinzi.com/ittc/6850960751086535684.html#%E7%94%A8PHP%E5%88%B6%E4%BD%9C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E7%B3%BB%E7%BB%9F) 160704 *22* 
+- [Web开发框架Telerik UI for PHP发布Q2 2016](http://jkwz.applinzi.com/ittc/6848632634670056452.html#Web%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6Telerik+UI+for+PHP%E5%8F%91%E5%B8%83Q2+2016) 160628 *7* 
+- [专业级智能PHP IDE Zend Studio发布v13.5](http://jkwz.applinzi.com/ittc/6847518852963107844.html#%E4%B8%93%E4%B8%9A%E7%BA%A7%E6%99%BA%E8%83%BDPHP+IDE+Zend+Studio%E5%8F%91%E5%B8%83v13.5) 160625 *10* 
+- [开源内容管理系统Joomla 3.5官方发布 基于PHP 7](http://jkwz.applinzi.com/ittc/6812350665716139013.html#%E5%BC%80%E6%BA%90%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9FJoomla+3.5%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83+%E5%9F%BA%E4%BA%8EPHP+7) 160322 *6* 
+- [PHP 7.0.3 正式版发布](http://jkwz.applinzi.com/ittc/6794848168835548165.html#PHP+7.0.3+%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83) 160204 *13* 
+- [PHP 7.0.2正式版发布：WordPress速度提升3倍！](http://jkwz.applinzi.com/ittc/6784668962189214725.html#PHP+7.0.2%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83%EF%BC%9AWordPress%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%873%E5%80%8D%EF%BC%81) 160107 *14* 
+- [PHP 7.0.0 正式版发布！](http://jkwz.applinzi.com/ittc/6771875854460388357.html#PHP+7.0.0+%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83%EF%BC%81) 151204 *8* 
+- [Facebook的Parse发布开源PHP脚本，让用户可以直接搭建网站后台](http://jkwz.applinzi.com/ittc/547650611372262310.html#Facebook%E7%9A%84Parse%E5%8F%91%E5%B8%83%E5%BC%80%E6%BA%90PHP%E8%84%9A%E6%9C%AC%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99%E5%90%8E%E5%8F%B0) 140806 *36* 

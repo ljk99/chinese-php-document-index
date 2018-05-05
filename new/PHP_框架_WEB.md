@@ -1,0 +1,16 @@
+[PHP中文资料归类索引](../README.md) > [PHP_框架_WEB](PHP_框架_WEB.md)
+====
+- [PHP Web 开发框架 Laravel 5.6.16 发布](http://jkwz.applinzi.com/ittc/7090708336679060491.html#PHP+Web+%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6+Laravel+5.6.16+%E5%8F%91%E5%B8%83) 180411  
+- [帮助web前端开发者简化工作的11个PHP框架！](http://jkwz.applinzi.com/ittc/7083707334457295889.html#%E5%B8%AE%E5%8A%A9web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%E7%AE%80%E5%8C%96%E5%B7%A5%E4%BD%9C%E7%9A%8411%E4%B8%AAPHP%E6%A1%86%E6%9E%B6%EF%BC%81) 180323 *8* 
+- [经典 PHP 框架及组件推荐系列——Yii2 Web开发框架](http://jkwz.applinzi.com/ittc/7019068163176793104.html#%E7%BB%8F%E5%85%B8+PHP+%E6%A1%86%E6%9E%B6%E5%8F%8A%E7%BB%84%E4%BB%B6%E6%8E%A8%E8%8D%90%E7%B3%BB%E5%88%97%E2%80%94%E2%80%94Yii2+Web%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6) 170930 *1* 
+- [一个高性能极简Web开发MVC框架，不是thinkphp](http://jkwz.applinzi.com/ittc/6986812407757145092.html#%E4%B8%80%E4%B8%AA%E9%AB%98%E6%80%A7%E8%83%BD%E6%9E%81%E7%AE%80Web%E5%BC%80%E5%8F%91MVC%E6%A1%86%E6%9E%B6%EF%BC%8C%E4%B8%8D%E6%98%AFthinkphp) 170705 *13* 
+- [Laravel框架教程，还在学习thinkphp5？yii2？跟上时代步伐，web程序员需要学习](http://jkwz.applinzi.com/ittc/6984192732808348676.html#Laravel%E6%A1%86%E6%9E%B6%E6%95%99%E7%A8%8B%EF%BC%8C%E8%BF%98%E5%9C%A8%E5%AD%A6%E4%B9%A0thinkphp5%EF%BC%9Fyii2%EF%BC%9F%E8%B7%9F%E4%B8%8A%E6%97%B6%E4%BB%A3%E6%AD%A5%E4%BC%90%EF%BC%8Cweb%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9C%80%E8%A6%81%E5%AD%A6%E4%B9%A0) 170628 *1* 
+- [“PHP是最好的编程语言” 这19款PHP Web框架要知道](http://jkwz.applinzi.com/ittc/6960158125398164484.html#%E2%80%9CPHP%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E2%80%9D+%E8%BF%9919%E6%AC%BEPHP+Web%E6%A1%86%E6%9E%B6%E8%A6%81%E7%9F%A5%E9%81%93) 170424 *6* 
+- [资深PHP程序员推荐 19款顶级PHP Web框架](http://jkwz.applinzi.com/ittc/6960158125435913221.html#%E8%B5%84%E6%B7%B1PHP%E7%A8%8B%E5%BA%8F%E5%91%98%E6%8E%A8%E8%8D%90+19%E6%AC%BE%E9%A1%B6%E7%BA%A7PHP+Web%E6%A1%86%E6%9E%B6) 170424 *5* 
+- [PHP高级Web开发框架](http://jkwz.applinzi.com/ittc/6951833678597604356.html#PHP%E9%AB%98%E7%BA%A7Web%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6) 170402 *5* 
+- [学习web开发有烦恼？8个PHP框架让你轻松做](http://jkwz.applinzi.com/ittc/6909264635223344132.html#%E5%AD%A6%E4%B9%A0web%E5%BC%80%E5%8F%91%E6%9C%89%E7%83%A6%E6%81%BC%EF%BC%9F8%E4%B8%AAPHP%E6%A1%86%E6%9E%B6%E8%AE%A9%E4%BD%A0%E8%BD%BB%E6%9D%BE%E5%81%9A) 161208 *14* 
+- [web前端的发展是否会影响到PHP框架开发模式](http://jkwz.applinzi.com/ittc/6867000328951694341.html#web%E5%89%8D%E7%AB%AF%E7%9A%84%E5%8F%91%E5%B1%95%E6%98%AF%E5%90%A6%E4%BC%9A%E5%BD%B1%E5%93%8D%E5%88%B0PHP%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F) 160816 *10* 
+- [哪个php框架开发web前端网站好？](http://jkwz.applinzi.com/ittc/6866600535934895109.html#%E5%93%AA%E4%B8%AAphp%E6%A1%86%E6%9E%B6%E5%BC%80%E5%8F%91web%E5%89%8D%E7%AB%AF%E7%BD%91%E7%AB%99%E5%A5%BD%EF%BC%9F) 160815 *15* 
+- [Web开发框架Telerik UI for PHP发布Q2 2016](http://jkwz.applinzi.com/ittc/6848632634670056452.html#Web%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6Telerik+UI+for+PHP%E5%8F%91%E5%B8%83Q2+2016) 160628 *7* 
+- [Web开发人员最爱11个PHP框架](http://jkwz.applinzi.com/ittc/547650611412013978.html#Web%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E6%9C%80%E7%88%B111%E4%B8%AAPHP%E6%A1%86%E6%9E%B6) 150430 *2* 
+- [PHP Web开发框架Laravel安装指南](http://jkwz.applinzi.com/ittc/547650611370806026.html#PHP+Web%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6Laravel%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97) 140814 *1* 

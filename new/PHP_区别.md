@@ -1,0 +1,27 @@
+[PHP中文资料归类索引](../README.md) > [PHP_区别](PHP_区别.md)
+====
+- [JAVASCRIPT和JAVA、PHP的区别](http://jkwz.applinzi.com/ittc/7081775931519927307.html#JAVASCRIPT%E5%92%8CJAVA%E3%80%81PHP%E7%9A%84%E5%8C%BA%E5%88%AB) 180318 *2* 
+- [php中关于self和static代表本类的区别详解](http://jkwz.applinzi.com/ittc/7079171536487711760.html#php%E4%B8%AD%E5%85%B3%E4%BA%8Eself%E5%92%8Cstatic%E4%BB%A3%E8%A1%A8%E6%9C%AC%E7%B1%BB%E7%9A%84%E5%8C%BA%E5%88%AB%E8%AF%A6%E8%A7%A3) 180311  
+- [Java和PHP的主要区别以及如何选择](http://jkwz.applinzi.com/ittc/7075471673401017360.html#Java%E5%92%8CPHP%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB%E4%BB%A5%E5%8F%8A%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9) 180301 *4* 
+- [小编详解php 中self,this的区别和实地操作](http://jkwz.applinzi.com/ittc/7064763867182138379.html#%E5%B0%8F%E7%BC%96%E8%AF%A6%E8%A7%A3php+%E4%B8%ADself%2Cthis%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E5%AE%9E%E5%9C%B0%E6%93%8D%E4%BD%9C) 180131  
+- [一张图告诉你PHP函数之empty(), is_null(), isset()的区别](http://jkwz.applinzi.com/ittc/7056882734893368327.html#%E4%B8%80%E5%BC%A0%E5%9B%BE%E5%91%8A%E8%AF%89%E4%BD%A0PHP%E5%87%BD%E6%95%B0%E4%B9%8Bempty%28%29%2C+is_null%28%29%2C+isset%28%29%E7%9A%84%E5%8C%BA%E5%88%AB) 180110 *1* 
+- [真像实验室：PHP研发Include和require的区别是什么？](http://jkwz.applinzi.com/ittc/7048079915147068433.html#%E7%9C%9F%E5%83%8F%E5%AE%9E%E9%AA%8C%E5%AE%A4%EF%BC%9APHP%E7%A0%94%E5%8F%91Include%E5%92%8Crequire%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F) 171217 *1* 
+- [深入剖析PHP输入流 php://input 和HTTP_RAW_POST_DATA 区别](http://jkwz.applinzi.com/ittc/7027571297733837841.html#%E6%B7%B1%E5%85%A5%E5%89%96%E6%9E%90PHP%E8%BE%93%E5%85%A5%E6%B5%81+php%3A%2F%2Finput+%E5%92%8CHTTP_RAW_POST_DATA+%E5%8C%BA%E5%88%AB) 171023 *1* 
+- [你是否有注意这7个PHP基础与JS操作的区别](http://jkwz.applinzi.com/ittc/7005396785047274512.html#%E4%BD%A0%E6%98%AF%E5%90%A6%E6%9C%89%E6%B3%A8%E6%84%8F%E8%BF%997%E4%B8%AAPHP%E5%9F%BA%E7%A1%80%E4%B8%8EJS%E6%93%8D%E4%BD%9C%E7%9A%84%E5%8C%BA%E5%88%AB) 170824  
+- [多迪PHP培训：自学PHP与培训PHP究竟有什么区别？](http://jkwz.applinzi.com/ittc/6987497206020834321.html#%E5%A4%9A%E8%BF%AAPHP%E5%9F%B9%E8%AE%AD%EF%BC%9A%E8%87%AA%E5%AD%A6PHP%E4%B8%8E%E5%9F%B9%E8%AE%ADPHP%E7%A9%B6%E7%AB%9F%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F) 170707 *1* 
+- [php开发中的static和self使用区别，你知道吗](http://jkwz.applinzi.com/ittc/6984530537329722372.html#php%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84static%E5%92%8Cself%E4%BD%BF%E7%94%A8%E5%8C%BA%E5%88%AB%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%90%97) 170629  
+- [PHP中-&gt;与-&gt;的用法与区别](http://jkwz.applinzi.com/ittc/6965041632914179077.html#PHP%E4%B8%AD-%26gt%3B%E4%B8%8E-%26gt%3B%E7%9A%84%E7%94%A8%E6%B3%95%E4%B8%8E%E5%8C%BA%E5%88%AB) 170507  
+- [PHP传值与引用的区别](http://jkwz.applinzi.com/ittc/6951151852572902405.html#PHP%E4%BC%A0%E5%80%BC%E4%B8%8E%E5%BC%95%E7%94%A8%E7%9A%84%E5%8C%BA%E5%88%AB) 170403 *1* 
+- [虚拟主机中的PHP和ASP语言有啥区别？](http://jkwz.applinzi.com/ittc/6947802307088614405.html#%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E4%B8%AD%E7%9A%84PHP%E5%92%8CASP%E8%AF%AD%E8%A8%80%E6%9C%89%E5%95%A5%E5%8C%BA%E5%88%AB%EF%BC%9F) 170322  
+- [php://input，$_POST区别与联系](http://jkwz.applinzi.com/ittc/6896788674494071812.html#php%3A%2F%2Finput%EF%BC%8C%24_POST%E5%8C%BA%E5%88%AB%E4%B8%8E%E8%81%94%E7%B3%BB) 161104 *6* 
+- [PHP中的一些比较相似的用法区别](http://jkwz.applinzi.com/ittc/6894531988521747460.html#PHP%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E6%AF%94%E8%BE%83%E7%9B%B8%E4%BC%BC%E7%9A%84%E7%94%A8%E6%B3%95%E5%8C%BA%E5%88%AB) 161029 *5* 
+- [PHP单引号和双引号的区别](http://jkwz.applinzi.com/ittc/6890863124000801796.html#PHP%E5%8D%95%E5%BC%95%E5%8F%B7%E5%92%8C%E5%8F%8C%E5%BC%95%E5%8F%B7%E7%9A%84%E5%8C%BA%E5%88%AB) 161020 *3* 
+- [当前流行的PHP程序网站和以前asp网站的主要区别？](http://jkwz.applinzi.com/ittc/6886719975057785860.html#%E5%BD%93%E5%89%8D%E6%B5%81%E8%A1%8C%E7%9A%84PHP%E7%A8%8B%E5%BA%8F%E7%BD%91%E7%AB%99%E5%92%8C%E4%BB%A5%E5%89%8Dasp%E7%BD%91%E7%AB%99%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB%EF%BC%9F) 161008 *7* 
+- [PHP的SESSION和COOKIE的区别和联系](http://jkwz.applinzi.com/ittc/6878942658348712965.html#PHP%E7%9A%84SESSION%E5%92%8CCOOKIE%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E8%81%94%E7%B3%BB) 160917 *18* 
+- [PHP的$this，self，parent的使用与区别](http://jkwz.applinzi.com/ittc/6878169553116349444.html#PHP%E7%9A%84%24this%EF%BC%8Cself%EF%BC%8Cparent%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E5%8C%BA%E5%88%AB) 160915 *7* 
+- [什么是PHP 4和PHP 5之间的区别是什么](http://jkwz.applinzi.com/ittc/6875793884579365893.html#%E4%BB%80%E4%B9%88%E6%98%AFPHP+4%E5%92%8CPHP+5%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB%E6%98%AF%E4%BB%80%E4%B9%88) 160909 *2* 
+- [PHP 取整函数 ceil 与 floor函数的区别](http://jkwz.applinzi.com/ittc/6865440325228823556.html#PHP+%E5%8F%96%E6%95%B4%E5%87%BD%E6%95%B0+ceil+%E4%B8%8E+floor%E5%87%BD%E6%95%B0%E7%9A%84%E5%8C%BA%E5%88%AB) 160812  
+- [php中类常量，静态属性，动态属性区别](http://jkwz.applinzi.com/ittc/6862477101147620357.html#php%E4%B8%AD%E7%B1%BB%E5%B8%B8%E9%87%8F%EF%BC%8C%E9%9D%99%E6%80%81%E5%B1%9E%E6%80%A7%EF%BC%8C%E5%8A%A8%E6%80%81%E5%B1%9E%E6%80%A7%E5%8C%BA%E5%88%AB) 160804 *1* 
+- [php中引用和赋值的区别](http://jkwz.applinzi.com/ittc/6862475288805639173.html#php%E4%B8%AD%E5%BC%95%E7%94%A8%E5%92%8C%E8%B5%8B%E5%80%BC%E7%9A%84%E5%8C%BA%E5%88%AB) 160804 *2* 
+- [何为php语言的弱类型，跟其他强类型语言的区别](http://jkwz.applinzi.com/ittc/6835718790389957637.html#%E4%BD%95%E4%B8%BAphp%E8%AF%AD%E8%A8%80%E7%9A%84%E5%BC%B1%E7%B1%BB%E5%9E%8B%EF%BC%8C%E8%B7%9F%E5%85%B6%E4%BB%96%E5%BC%BA%E7%B1%BB%E5%9E%8B%E8%AF%AD%E8%A8%80%E7%9A%84%E5%8C%BA%E5%88%AB) 160524 *5* 
+- [浅析PHP abstract和interface之间的区别](http://jkwz.applinzi.com/ittc/547650611374975718.html#%E6%B5%85%E6%9E%90PHP+abstract%E5%92%8Cinterface%E4%B9%8B%E9%97%B4%E7%9A%84%E5%8C%BA%E5%88%AB) 140916  
